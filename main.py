@@ -1,8 +1,6 @@
 from discord.ext import commands
-from Cybernator import Paginator as pag
-from tabulate import tabulate
-import json, os, sys
-import requests, discord
+import os, sys
+import discord
 
 
 # Настройки
